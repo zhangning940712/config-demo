@@ -1,6 +1,6 @@
 
 data:
-  env: localhost-online
+  env: luo-dan-prod-910310
   user:
-    username: fengzheng-online
-    password: password-online
+    username: luo-dan-prod
+    password: 910310-prod
