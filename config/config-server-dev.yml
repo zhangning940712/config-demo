@@ -1,1 +1,6 @@
 
+data:
+  env: config-server-dev
+  user:
+    username: adime
+    password: 940712
