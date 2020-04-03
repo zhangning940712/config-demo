@@ -3,4 +3,4 @@ data:
   env: config-server-dev
   user:
     username: adime
-    password: {cipher}100f25298d09c2d41ab7332d1e8a34fcd7591aad5d43c277597dcbbceddcac58
+    password: '{cipher}bf4038ac1b69ee121dad25cbf245d27913bac25a10ee5a4b6373720d0f0d7d83'
